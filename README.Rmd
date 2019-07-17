@@ -169,6 +169,6 @@ One of the easiest but also most important ways to contribute is to post a quest
 * Sending a message via [tidylpa@googlegroups.com](mailto:tidylpa@googlegroups.com) or view the [the tidyLPA group page](https://groups.google.com/forum/#!forum/tidylpa) (*preferred*)
 * Filing an issue on GitHub [here](https://github.com/data-edu/tidyLPA)
 
-Contributions are also welcome via by making pull requests (PR), e.g. through [this page on GitHub](https://github.com/data-edu/tidyLPA/pulls). It may be easier if you first file an issue outlining what you will do in the PR. You can also reach out via the methods described above.
+Contributions are also welcome via by making pull requests (PRs), e.g. through [this page on GitHub](https://github.com/data-edu/tidyLPA/pulls). It may be easier if you first file an issue outlining what you will do in the PR. You can also reach out via the methods described above.
 
 Please note that this project is released with a [Contributor Code of Conduct](CONDUCT.md). By participating in this project you agree to abide by its terms.
